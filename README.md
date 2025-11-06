@@ -40,6 +40,16 @@
   - Creating structured manual test cases
   - Documenting expected & actual results
 
+--- 
+
 💼 Author
 Budi Octaviandy – Manual QA & PL/SQL Developer
 🔗 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/budi-octaviandy-56a4311a0/)
+
+---
+
+> _“Quality is never an accident; it is always the result of intelligent effort.” — John Ruskin_
+
+![Status](https://img.shields.io/badge/Testing-API-blue)
+![Tool](https://img.shields.io/badge/Insomnia-Used-success)
+![Learning](https://img.shields.io/badge/Learning-Continuous-orange)
