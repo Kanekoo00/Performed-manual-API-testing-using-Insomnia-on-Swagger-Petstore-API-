@@ -7,6 +7,13 @@
 
   Base URL: https://petstore.swagger.io/v2
 
+ # How To Access Petstore API
+  1. Open The App Insomnia
+  2. Click new request
+  3. Fill in the name and method according to the endpoint to be tested.
+  4. Fill in the URL petstore.swagger.io/v2 and add the appropriate endpoint to be tested.
+  5. Click button send.
+  
   Endpoints Tested:
   GET /pet/findByStatus
   GET /pet/{petId}
